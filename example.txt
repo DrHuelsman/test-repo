@@ -1,2 +1,3 @@
 Here is a file with some text
 And some more text
+A third line
